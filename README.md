@@ -6,10 +6,6 @@ Name: Ridham Zalawadia
 Status: Complete
 
 
-* Your name. Indicate if you go by a nickname.
-* Status of your lab
-  * Complete, partially complete, incomplete
-  * If not complete, what does work? What doesn't?
 * Compilation and execution instructions
   * `gcc -o piku piku.s` or `make`
   * `./piku`
