@@ -2,6 +2,10 @@
 
 ## Things to include in your README
 
+Name: Ridham Zalawadia
+Status: Complete
+
+
 * Your name. Indicate if you go by a nickname.
 * Status of your lab
   * Complete, partially complete, incomplete
