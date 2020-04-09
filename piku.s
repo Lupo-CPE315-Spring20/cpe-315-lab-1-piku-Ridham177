@@ -26,6 +26,6 @@ main:
 line1:
     .asciz "A beautiful sight\n"
 line2:
-    .asciz "the pi is to sore eyes\n"
+    .asciz "the pi is to aching eyes\n"
 line3:
-    .asciz "solving problems all around\n"
+    .asciz "solving ills throughout\n"
